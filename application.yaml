@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/yassirm-dev/argo-app-config.git
+    repoURL: https://github.com/yassirm-dev/argo-nana.git
     #HEAD updates to the latest commit
     targetRevision: HEAD
     # Syncs/track a specific folder in therepo
